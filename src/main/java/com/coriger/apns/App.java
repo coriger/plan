@@ -1,8 +1,7 @@
 package com.coriger.apns;
 
 /**
-22222222222222222
-1111111111111111
+444444444
  */
 public class App 
 {
