@@ -1,7 +1,7 @@
 package com.coriger.apns;
 
 /**
- * erwre
+sdfs
  */
 public class App 
 {
