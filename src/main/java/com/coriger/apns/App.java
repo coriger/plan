@@ -1,7 +1,7 @@
 package com.coriger.apns;
 
 /**
- * Hello world!111111111 === 22222222
+ * xxxxxxxxxxxxxxxxxxxx
  */
 public class App 
 {
