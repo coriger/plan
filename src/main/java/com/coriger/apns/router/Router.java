@@ -1,7 +1,7 @@
 package com.coriger.apns.router;
 
 public class Router {
-	
+
 	public void router(){
 //		source: servlet mvc netty
 //		format: json xml
