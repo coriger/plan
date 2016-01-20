@@ -14,10 +14,6 @@ public class Router {
 	}
 }
 
-
-
-
-
 //+++++++++++++++++++++++++++++++++++++
 //
 //request  -->> transport -->> filter -->> router -->> service -->> filter -->> transport
